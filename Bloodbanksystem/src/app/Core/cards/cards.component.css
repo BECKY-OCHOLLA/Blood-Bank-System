@@ -34,23 +34,17 @@
   margin-top: -100px;
 }
 /* I need to get a hover for the card such that all the text-color changes to white */
-/* .card-text:hover{
+.card-text:hover{
     color: white;
 }
 .hero-button:hover{
     color: white;
-} */
+}
 .card:hover {
   color: white;
-  background-color: var(--blue);
+  background-color: red;
 }
-.icon-arrow {
-  color: #ff9800;
-  font-size: 25px;
-  background-color: var(--blue);
-  position: static;
-  border-radius: 50%;
-}
+
 .card-section-p-text {
   text-align: center;
   font-size: 18px;

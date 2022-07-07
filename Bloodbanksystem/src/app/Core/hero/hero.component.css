@@ -1,5 +1,5 @@
 .hero-section {
-  background-image: url(/assets/images/hero-1.jpg);
+  background-image: url("https://images.unsplash.com/photo-1542884748-2b87b36c6b90?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fGJsb29kJTIwZG9uYXRpb258ZW58MHx8MHx8&w=1000&q=80");
   background-size: cover;
   position: relative;
   height: 100%;
@@ -47,14 +47,14 @@
   border: 1px solid var(--main-color);
 }
 .horizontal-rule {
-  background-color: #ff9800;
+  background-color: #0a0a0a;
   min-height: 10px;
   margin-top: 1px;
   cursor: pointer;
   width: 65%;
 }
 .horizontal-rule-2nd {
-  background-color: #ff9800;
+  background-color: #050505;
   min-height: 10px;
   margin-top: 1px;
   cursor: pointer;
@@ -63,13 +63,3 @@
 /* .big-circle{
 } */
 
-.circle {
-  bottom: -105px;
-  right: -75px;
-  height: 40rem;
-  background: var(--main-color);
-  position: absolute;
-  width: 40rem;
-
-  border-radius: 50%;
-}
