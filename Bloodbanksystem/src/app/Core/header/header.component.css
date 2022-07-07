@@ -11,16 +11,12 @@
 .nav-bar {
   line-height: 26.25px;
   height: 88px;
-  background-color: #0a0c1c;
+  background-color: #dd122d;
 }
 .talk-heading {
   font-size: 15px;
 }
-.cart-badge {
-  background-color: #ff9800;
-  color: #0a0c1c;
-  font-size: 9px;
-}
+
 .horizontal-rule {
   background-color: #ff9800;
   min-height: 1px;

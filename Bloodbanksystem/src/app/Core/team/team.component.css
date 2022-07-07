@@ -1,7 +1,8 @@
 .team-section {
   height: 975.838px; 
   padding: 140px 0 140px 0;
-  background-image: url(/assets/images/team-bg.jpg);
+  background-color: rgba(255, 0, 0, 0.822);
+  /* background-image: url(/assets/images/team-bg.jpg); */
   /* background-position: 50% 50%; */
   background-repeat: no-repeat;
   background-size: cover;
@@ -39,8 +40,6 @@
 .overlay {
   position: absolute; 
   bottom: 0; 
-  background: rgb(0, 0, 0);
-  background: rgba(0, 0, 0, 0.5); /* Black see-through */
   color: #f1f1f1; 
   position: absolute;
   top: 80%;

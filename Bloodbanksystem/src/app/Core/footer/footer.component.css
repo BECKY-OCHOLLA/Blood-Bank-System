@@ -2,7 +2,7 @@
   height: 320px;
   width: 1519.2px;
   padding: 90px 0 110px 0;
-  background-color: var(--main-color);
+  background-color: #ffddd2;
 }
 .top-footer-text {
   font-size: 40px;
@@ -104,7 +104,7 @@ a:focus {
   line-height: 30px;
   margin-bottom: 20px;
   text-transform: capitalize;
-  color: #ffffff;
+  color: black;
   /* text-align:justify; */
 }
 .footer-head-link {
@@ -112,20 +112,20 @@ a:focus {
 }
 .footer-text {
   font-family: "Open Sans", sans-serif;
-  font-size: 14px;
+  font-size: 20px;
+  font-weight: bold;
   line-height: 24.5px;
   width: 306px;
-  color: #c4c5c7;
+  color: #0d0d0e;
 }
 .footer-contact-tel,
 .footer-contact-email {
   font-family: Antonio, sans-serif;
   font-weight: 700;
   line-height: 20px;
-  text-decoration: underline solid rgb(255, 168, 0);
   text-align: left;
   width: 306px;
-  color: #ffffff;
+  color: black;
 }
 .footer-contact-tel {
   font-size: 24px;
